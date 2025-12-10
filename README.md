@@ -31,7 +31,7 @@ Klasik spam filtrelerinin aksine, PhishGuard e-postanın sadece "içeriğine" de
 Bu projeyi yerel bilgisayarınızda çalıştırmak için adımları takip edin:
 
 1. **Repoyu Klonlayın**
-   git clone [https://github.com/KULLANICI_ADIN/PhishGuard-AI.git](https://github.com/KULLANICI_ADIN/PhishGuard-AI.git)
+   git clone [https://github.com/KULLANICI_ADIN/PhishGuard-AI.git](https://github.com/utkankeser/PhishGuard-AI.git)
    cd PhishGuard-AI
    
 3. Gerekli Kütüphaneleri Yükleyin
