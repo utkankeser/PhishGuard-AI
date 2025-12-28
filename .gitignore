@@ -1,4 +1,42 @@
+# Virtual Environments
 .venv/
 venv/
-__pycache__/
+env/
+ENV/
+
+# Environment Variables (Secrets)
 .env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Vector Database (Optional - uncomment if you want to exclude from git)
+# sirket_vektor_db/
